@@ -7,4 +7,4 @@
 
 ### 11.1 Models for Random Effects
 
-$y_ij=\mu_i+\epsilon_ij=\mu+\alpha_i+\epsilon_ij$
+$$y_ij=\mu_i+\epsilon_ij=\mu+\alpha_i+\epsilon_ij$$
